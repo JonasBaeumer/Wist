@@ -1,4 +1,6 @@
 # Wist
+Liebe Mama, lieber Papa,
+
 Wir saßen ja damals in Borkum am Tisch als ich in Java ein Programm geschrieben habe, damit ihr nicht immer die Punkte von Hand eintragen und berechnen müsst. 
 Dabei sagte jemand "Warum machst du nicht eine App dafür?". 
 Eine Gute Idee. Hier ist eure eigene Wist App
