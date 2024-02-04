@@ -1,4 +1,4 @@
-# Wist
+# Whist / Wizard
 
 
 <p float="left">
